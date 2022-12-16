@@ -304,7 +304,7 @@ dialog {
     box-shadow: 3px 3px 4px rgba(232, 2, 10, 0.85);
 }
 
-@media all and (max-width: 1440px){
+@media all and (max-width: 768px){
 #menu {
     visibility: hidden;
    } 
